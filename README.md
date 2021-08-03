@@ -1,4 +1,9 @@
 # Getting Started with Create React App
+To Get Started Use:
+Use -> npx create-react-app app_name        
+Use -> npm install react-bootstrap bootstrap
+Use -> npm i react-toastify
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
